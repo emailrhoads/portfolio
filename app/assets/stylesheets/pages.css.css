@@ -1,0 +1,19 @@
+.header {
+  align: center;
+  margin-bottom: 10vh;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.footer ul {
+  margin: 10px;
+  text-align: center;
+}
+
+.footer li {
+  display: inline;
+  margin: auto;
+}
